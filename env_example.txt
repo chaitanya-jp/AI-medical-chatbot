@@ -1,0 +1,8 @@
+# API Keys for AI Doctor App
+# Copy this content to a .env file and fill in your actual API keys
+
+# Groq API Key for speech-to-text
+GROQ_API_KEY=your_groq_api_key_here
+
+# ElevenLabs API Key for text-to-speech (optional - will fallback to gTTS if not provided)
+ELEVEN_API_KEY=your_elevenlabs_api_key_here
